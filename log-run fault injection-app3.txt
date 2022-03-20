@@ -1,0 +1,2851 @@
+===========================
+Initialization
+======================================================
+START SIMULATION
+======================================================
+
+----------------------------------------------------------------------------
+Time : 0.0
+Min (milliseconds) : 0.0
+S5 Starts the loop section.
+S5 is writing the message : "1" in its buffer.
+S35 Starts the loop section.
+S35 is waiting for data ...
+S15 Starts the loop section.
+S15 is waiting for data ...
+S23 Starts the loop section.
+S23 is writing the message : "1" in its buffer.
+S32 Starts the loop section.
+S32 is waiting for data ...
+S33 Starts the loop section.
+S33 is waiting for data ...
+S36 Starts the loop section.
+S36 is waiting for data ...
+S7 Starts the loop section.
+S7 is writing the message : "1" in its buffer.
+S31 Starts the loop section.
+S31 is waiting for data ...
+S29 Starts the loop section.
+S29 is waiting for data ...
+S25 Starts the loop section.
+S25 is waiting for data ...
+S9 Starts the loop section.
+S9 is waiting for data ...
+S46 Starts the loop section.
+S46 is waiting for data ...
+S3 Starts the loop section.
+S3 is writing the message : "1" in its buffer.
+S34 Starts the loop section.
+S34 is waiting for data ...
+S41 Starts the loop section.
+S41 is waiting for data ...
+S27 Starts the loop section.
+S27 is waiting for data ...
+S14 Starts the loop section.
+S14 is waiting for data ...
+S44 Starts the loop section.
+S44 is waiting for data ...
+S39 Starts the loop section.
+S39 is waiting for data ...
+S30 Starts the loop section.
+S30 is waiting for data ...
+S38 Starts the loop section.
+S38 is waiting for data ...
+S49 Starts the loop section.
+S49 is waiting for data ...
+S43 Starts the loop section.
+S43 is waiting for data ...
+S6 Starts the loop section.
+S6 is writing the message : "1" in its buffer.
+S1 Starts the loop section.
+S1 is writing the message : "1" in its buffer.
+S4 Starts the loop section.
+S4 is waiting for data ...
+S28 Starts the loop section.
+S28 is waiting for data ...
+S47 Starts the loop section.
+S47 is waiting for data ...
+S11 Starts the loop section.
+S11 is waiting for data ...
+S12 Starts the loop section.
+S12 is waiting for data ...
+S10 Starts the loop section.
+S10 is waiting for data ...
+S48 Starts the loop section.
+S48 is waiting for data ...
+S40 Starts the loop section.
+S40 is waiting for data ...
+S45 Starts the loop section.
+S45 is waiting for data ...
+S26 Starts the loop section.
+S26 is waiting for data ...
+S37 Starts the loop section.
+S37 is waiting for data ...
+S2 Starts the loop section.
+S2 is writing the message : "1" in its buffer.
+S42 Starts the loop section.
+S42 is waiting for data ...
+S24 Starts the loop section.
+S24 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 8.0E-21
+Min (milliseconds) : 8.0E-21
+S5 is listening to the channel
+S5 the channel is free.
+S5 starts sending the message : "1".
+S5 has finished sending the message : "1" to the node: 
+S9 (radio: radio1) is receiving the message : "1" in its buffer.
+S5 MARK
+S5 starts delaying for 1000.0 milliseconds
+S23 is listening to the channel
+S23 the channel is free.
+S23 starts sending the message : "1".
+S23 has finished sending the message : "1" to the node: 
+S15 (radio: radio1) is receiving the message : "1" in its buffer.
+S23 MARK
+S23 starts delaying for 1000.0 milliseconds
+S7 is listening to the channel
+S7 the channel is free.
+S7 starts sending the message : "1".
+S7 has finished sending the message : "1" to the node: 
+S9 (radio: radio1) is receiving the message : "1" in its buffer.
+S7 MARK
+S7 starts delaying for 1000.0 milliseconds
+S3 is listening to the channel
+S3 the channel is free.
+S3 starts sending the message : "1".
+S3 has finished sending the message : "1" to the node: 
+S4 (radio: radio1) is receiving the message : "1" in its buffer.
+S3 MARK
+S3 starts delaying for 1000.0 milliseconds
+S6 is listening to the channel
+S6 the channel is free.
+S6 starts sending the message : "1".
+S6 has finished sending the message : "1" to the node: 
+S9 (radio: radio1) is receiving the message : "1" in its buffer.
+S6 MARK
+S6 starts delaying for 1000.0 milliseconds
+S1 is listening to the channel
+S1 the channel is free.
+S1 starts sending the message : "1".
+S1 has finished sending the message : "1" to the node: 
+S4 (radio: radio1) is receiving the message : "1" in its buffer.
+S1 MARK
+S1 starts delaying for 1000.0 milliseconds
+S2 is listening to the channel
+S2 the channel is free.
+S2 starts sending the message : "1".
+S2 has finished sending the message : "1" to the node: 
+S4 (radio: radio1) is receiving the message : "1" in its buffer.
+S2 MARK
+S2 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.0031373333333333336
+Min (milliseconds) : 0.0031373333333333336
+S15 Buffer available, exit waiting.
+S15 READ
+S15 is reading from its buffer "1" and puts it in v
+S15 PRINT [print, "R=", $v]
+S15 is writing the message : "1" in its buffer.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "1" and puts it in v
+S9 PRINT [print, "R=", $v]
+S9 is writing the message : "1" in its buffer.
+S4 Buffer available, exit waiting.
+S4 READ
+S4 is reading from its buffer "1" and puts it in v
+S4 PRINT [print, "R=", $v]
+S4 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.0031373333333333336
+Min (milliseconds) : 8.0E-21
+S15 is listening to the channel
+S15 the channel is free.
+S15 starts sending the message : "1".
+S15 has finished sending the message : "1" to the node: 
+S24 (radio: radio1) is receiving the message : "1" in its buffer.
+S15 starts delaying for 1000.0 milliseconds
+S9 is listening to the channel
+S9 the channel is free.
+S9 starts sending the message : "1".
+S9 has finished sending the message : "1" to the node: 
+S10 (radio: radio1) is receiving the message : "1" in its buffer.
+S9 starts delaying for 1000.0 milliseconds
+S4 is listening to the channel
+S4 the channel is free.
+S4 starts sending the message : "1".
+S4 has finished sending the message : "1" to the node: 
+S12 (radio: radio1) is receiving the message : "1" in its buffer.
+S4 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.006274666666666667
+Min (milliseconds) : 0.0031373333333333336
+S12 Buffer available, exit waiting.
+S12 READ
+S12 is reading from its buffer "1" and puts it in v
+S12 PRINT [print, "R=", $v]
+S12 is writing the message : "1" in its buffer.
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "1" and puts it in v
+S10 PRINT [print, "R=", $v]
+S10 is writing the message : "1" in its buffer.
+S24 Buffer available, exit waiting.
+S24 READ
+S24 is reading from its buffer "1" and puts it in v
+S24 PRINT [print, "R=", $v]
+S24 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.006274666666666667
+Min (milliseconds) : 8.0E-21
+S12 is listening to the channel
+S12 the channel is free.
+S12 starts sending the message : "1".
+S12 has finished sending the message : "1" to the node: 
+S14 (radio: radio1) is receiving the message : "1" in its buffer.
+S12 starts delaying for 1000.0 milliseconds
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S11 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 1000.0 milliseconds
+S24 is listening to the channel
+S24 the channel is free.
+S24 starts sending the message : "1".
+S24 has finished sending the message : "1" to the nodes with MY=70.0: 
+  -> S25 
+S25 (radio: radio1) is receiving the message : "1" in its buffer.
+  -> S28 
+S28 (radio: radio1) is receiving the message : "1" in its buffer.
+S24 MARK
+S24 Starts the loop section.
+S24 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.009412
+Min (milliseconds) : 0.0031373333333333336
+S25 Buffer available, exit waiting.
+S25 READ
+S25 is reading from its buffer "1" and puts it in v
+S25 PRINT [print, "R=", $v]
+S25 is writing the message : "1" in its buffer.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "1" and puts it in v
+S14 PRINT [print, "R=", $v]
+S14 is writing the message : "1" in its buffer.
+S28 Buffer available, exit waiting.
+S28 READ
+S28 is reading from its buffer "1" and puts it in v
+S28 PRINT [print, "R=", $v]
+S28 is writing the message : "1" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "1" and puts it in v
+S11 PRINT [print, "R=", $v]
+S11 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.009412
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S26 (radio: radio1) is receiving the message : "1" in its buffer.
+S25 is writing the message : "1" in its buffer.
+S14 is listening to the channel
+S14 the channel is free.
+S14 starts sending the message : "1".
+S14 has finished sending the message : "1" to the node: 
+S15 (radio: radio1) is receiving the message : "1" in its buffer.
+S14 starts delaying for 1000.0 milliseconds
+S28 is listening to the channel
+S28 the channel is free.
+S28 starts sending the message : "1".
+S28 has finished sending the message : "1" to the node: 
+S35 (radio: radio1) is receiving the message : "1" in its buffer.
+S28 MARK
+S28 Starts the loop section.
+S28 is waiting for data ...
+S11 is listening to the channel
+S11 the channel is free.
+S11 starts sending the message : "1".
+S11 has finished sending the message : "1" to the node: 
+S14 (radio: radio1) is receiving the message : "1" in its buffer.
+S11 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.009412
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S29 (radio: radio1) is receiving the message : "1" in its buffer.
+S25 MARK
+S25 Starts the loop section.
+S25 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.012549333333333334
+Min (milliseconds) : 0.0031373333333333336
+S35 Buffer available, exit waiting.
+S35 READ
+S35 is reading from its buffer "1" and puts it in v
+S35 PRINT [print, "R=", $v]
+S35 is writing the message : "1" in its buffer.
+S29 Buffer available, exit waiting.
+S29 READ
+S29 is reading from its buffer "1" and puts it in v
+S29 PRINT [print, "R=", $v]
+S29 is writing the message : "1" in its buffer.
+S26 Buffer available, exit waiting.
+S26 READ
+S26 is reading from its buffer "1" and puts it in v
+S26 PRINT [print, "R=", $v]
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.012549333333333334
+Min (milliseconds) : 8.0E-21
+S35 is listening to the channel
+S35 the channel is free.
+S35 starts sending the message : "1".
+S35 has finished sending the message : "1" to the node: 
+S35 and S36.0have not the same protocol!
+S35 MARK
+S35 Starts the loop section.
+S35 is waiting for data ...
+S29 is listening to the channel
+S29 the channel is free.
+S29 starts sending the message : "1".
+S29 has finished sending the message : "1" to the node: 
+S35 (radio: radio1) is receiving the message : "1" in its buffer.
+S29 MARK
+S29 Starts the loop section.
+S29 is waiting for data ...
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S27 (radio: radio1) is receiving the message : "1" in its buffer.
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.012549333333333334
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S30 (radio: radio1) is receiving the message : "1" in its buffer.
+S26 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.015686666666666668
+Min (milliseconds) : 0.0031373333333333336
+S35 Buffer available, exit waiting.
+S35 READ
+S35 is reading from its buffer "1" and puts it in v
+S35 PRINT [print, "R=", $v]
+S35 is writing the message : "1" in its buffer.
+S27 Buffer available, exit waiting.
+S27 READ
+S27 is reading from its buffer "1" and puts it in v
+S27 PRINT [print, "R=", $v]
+S27 is writing the message : "1" in its buffer.
+S30 Buffer available, exit waiting.
+S30 READ
+S30 is reading from its buffer "1" and puts it in v
+S30 PRINT [print, "R=", $v]
+S30 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.015686666666666668
+Min (milliseconds) : 8.0E-21
+S35 is listening to the channel
+S35 the channel is free.
+S35 starts sending the message : "1".
+S35 has finished sending the message : "1" to the node: 
+S35 and S36.0have not the same protocol!
+S35 MARK
+S35 Starts the loop section.
+S35 is waiting for data ...
+S27 is listening to the channel
+S27 the channel is free.
+S27 starts sending the message : "1".
+S27 has finished sending the message : "1" to the node: 
+S33 (radio: radio1) is receiving the message : "1" in its buffer.
+S27 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.018824
+Min (milliseconds) : 0.0031373333333333336
+S33 Buffer available, exit waiting.
+S33 READ
+S33 is reading from its buffer "1" and puts it in v
+S33 PRINT [print, "R=", $v]
+S33 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.018824
+Min (milliseconds) : 8.0E-21
+S33 is listening to the channel
+S33 the channel is free.
+S33 starts sending the message : "1".
+S33 has finished sending the message : "1" to the node: 
+S31 (radio: radio1) is receiving the message : "1" in its buffer.
+S33 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.018824
+Min (milliseconds) : 8.0E-21
+S33 is listening to the channel
+S33 the channel is free.
+S33 starts sending the message : "1".
+S33 has finished sending the message : "1" to the node: 
+S32 (radio: radio1) is receiving the message : "1" in its buffer.
+S33 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.018824
+Min (milliseconds) : 8.0E-21
+S33 is listening to the channel
+S33 the channel is free.
+S33 starts sending the message : "1".
+S33 has finished sending the message : "1" to the node: 
+S34 (radio: radio1) is receiving the message : "1" in its buffer.
+S33 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.021961333333333333
+Min (milliseconds) : 0.0031373333333333336
+S32 Buffer available, exit waiting.
+S32 READ
+S32 is reading from its buffer "1" and puts it in v
+S32 PRINT [print, "R=", $v]
+S32 is writing the message : "1" in its buffer.
+S31 Buffer available, exit waiting.
+S31 READ
+S31 is reading from its buffer "1" and puts it in v
+S31 PRINT [print, "R=", $v]
+S31 is writing the message : "1" in its buffer.
+S34 Buffer available, exit waiting.
+S34 READ
+S34 is reading from its buffer "1" and puts it in v
+S34 PRINT [print, "R=", $v]
+S34 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.021961333333333333
+Min (milliseconds) : 8.0E-21
+S32 is listening to the channel
+S32 the channel is free.
+S32 starts sending the message : "1".
+S32 has finished sending the message : "1" to the node: 
+S38 (radio: radio1) is receiving the message : "1" in its buffer.
+S32 MARK
+S32 Starts the loop section.
+S32 is waiting for data ...
+S31 is listening to the channel
+S31 the channel is free.
+S31 starts sending the message : "1".
+S31 has finished sending the message : "1" to the node: 
+S39 (radio: radio1) is receiving the message : "1" in its buffer.
+S31 MARK
+S31 Starts the loop section.
+S31 is waiting for data ...
+S34 is listening to the channel
+S34 the channel is free.
+S34 starts sending the message : "1".
+S34 has finished sending the message : "1" to the nodes with MY=80.0: 
+S34 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.025098666666666665
+Min (milliseconds) : 0.0031373333333333336
+S39 Buffer available, exit waiting.
+S39 READ
+S39 is reading from its buffer "1" and puts it in v
+S39 PRINT [print, "R=", $v]
+S39 is writing the message : "1" in its buffer.
+S38 Buffer available, exit waiting.
+S38 READ
+S38 is reading from its buffer "1" and puts it in v
+S38 PRINT [print, "R=", $v]
+S38 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.025098666666666665
+Min (milliseconds) : 8.0E-21
+S39 is listening to the channel
+S39 the channel is free.
+S39 starts sending the message : "1".
+S39 has finished sending the message : "1" to the node: 
+S40 (radio: radio1) is receiving the message : "1" in its buffer.
+S39 MARK
+S39 Starts the loop section.
+S39 is waiting for data ...
+S38 is listening to the channel
+S38 the channel is free.
+S38 starts sending the message : "1".
+S38 has finished sending the message : "1" to the node: 
+S45 (radio: radio1) is receiving the message : "1" in its buffer.
+S38 MARK
+S38 Starts the loop section.
+S38 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.028235999999999997
+Min (milliseconds) : 0.0031373333333333336
+S40 Buffer available, exit waiting.
+S40 READ
+S40 is reading from its buffer "1" and puts it in v
+S40 PRINT [print, "R=", $v]
+S40 is writing the message : "1" in its buffer.
+S45 Buffer available, exit waiting.
+S45 READ
+S45 is reading from its buffer "1" and puts it in v
+S45 PRINT [print, "R=", $v]
+S45 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.028235999999999997
+Min (milliseconds) : 8.0E-21
+S40 is listening to the channel
+S40 the channel is free.
+S40 starts sending the message : "1".
+S40 has finished sending the message : "1" to the node: 
+S44 (radio: radio1) is receiving the message : "1" in its buffer.
+S40 MARK
+S40 Starts the loop section.
+S40 is waiting for data ...
+S45 is listening to the channel
+S45 the channel is free.
+S45 starts sending the message : "1".
+S45 has finished sending the message : "1" to the node: 
+S46 (radio: radio1) is receiving the message : "1" in its buffer.
+S45 MARK
+S45 Starts the loop section.
+S45 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.03137333333333333
+Min (milliseconds) : 0.0031373333333333336
+S46 Buffer available, exit waiting.
+S46 READ
+S46 is reading from its buffer "1" and puts it in v
+S46 PRINT [print, "R=", $v]
+S46 is writing the message : "1" in its buffer.
+S44 Buffer available, exit waiting.
+S44 READ
+S44 is reading from its buffer "1" and puts it in v
+S44 PRINT [print, "output=", $v]
+S44 MARK
+S44 Starts the loop section.
+S44 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.03137333333333333
+Min (milliseconds) : 8.0E-21
+S46 is listening to the channel
+S46 the channel is free.
+S46 starts sending the message : "1".
+S46 has finished sending the message : "1" to the node: 
+S46 and S47.0have not the same protocol!
+S46 MARK
+S46 Starts the loop section.
+S46 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.0
+Min (milliseconds) : 0.9686266666666667
+S5 has finished the delay.
+S23 has finished the delay.
+S7 has finished the delay.
+S3 has finished the delay.
+S6 has finished the delay.
+S1 has finished the delay.
+S2 has finished the delay.
+
+S5 is writing the message : "0" in its buffer.
+S23 is writing the message : "0" in its buffer.
+S7 is writing the message : "0" in its buffer.
+S3 is writing the message : "0" in its buffer.
+S6 is writing the message : "0" in its buffer.
+S1 is writing the message : "0" in its buffer.
+S2 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0
+Min (milliseconds) : 8.0E-21
+S5 is listening to the channel
+S5 the channel is free.
+S5 starts sending the message : "0".
+S5 has finished sending the message : "0" to the node: 
+S9 (radio: radio1) is receiving the message : "0" in its buffer.
+S5 UNMARK
+S5 starts delaying for 1000.0 milliseconds
+S23 is listening to the channel
+S23 the channel is free.
+S23 starts sending the message : "0".
+S23 has finished sending the message : "0" to the node: 
+S15 (radio: radio1) is receiving the message : "0" in its buffer.
+S23 UNMARK
+S23 starts delaying for 1000.0 milliseconds
+S7 is listening to the channel
+S7 the channel is free.
+S7 starts sending the message : "0".
+S7 has finished sending the message : "0" to the node: 
+S9 (radio: radio1) is receiving the message : "0" in its buffer.
+S7 UNMARK
+S7 starts delaying for 1000.0 milliseconds
+S3 is listening to the channel
+S3 the channel is free.
+S3 starts sending the message : "0".
+S3 has finished sending the message : "0" to the node: 
+S4 (radio: radio1) is receiving the message : "0" in its buffer.
+S3 UNMARK
+S3 starts delaying for 1000.0 milliseconds
+S6 is listening to the channel
+S6 the channel is free.
+S6 starts sending the message : "0".
+S6 has finished sending the message : "0" to the node: 
+S9 (radio: radio1) is receiving the message : "0" in its buffer.
+S6 UNMARK
+S6 starts delaying for 1000.0 milliseconds
+S1 is listening to the channel
+S1 the channel is free.
+S1 starts sending the message : "0".
+S1 has finished sending the message : "0" to the node: 
+S4 (radio: radio1) is receiving the message : "0" in its buffer.
+S1 UNMARK
+S1 starts delaying for 1000.0 milliseconds
+S2 is listening to the channel
+S2 the channel is free.
+S2 starts sending the message : "0".
+S2 has finished sending the message : "0" to the node: 
+S4 (radio: radio1) is receiving the message : "0" in its buffer.
+S2 UNMARK
+S2 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 1.0031373333333333
+Min (milliseconds) : 0.0031373333333333253
+S15 has finished the delay.
+S9 has finished the delay.
+S4 has finished the delay.
+
+S15 MARK
+S15 Starts the loop section.
+S15 Buffer available, exit waiting.
+S15 READ
+S15 is reading from its buffer "1" and puts it in v
+S15 PRINT [print, "R=", $v]
+S15 is writing the message : "1" in its buffer.
+S9 MARK
+S9 Starts the loop section.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "1" and puts it in v
+S9 PRINT [print, "R=", $v]
+S9 is writing the message : "1" in its buffer.
+S4 MARK
+S4 Starts the loop section.
+S4 Buffer available, exit waiting.
+S4 READ
+S4 is reading from its buffer "1" and puts it in v
+S4 PRINT [print, "R=", $v]
+S4 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0031373333333333
+Min (milliseconds) : 8.0E-21
+S15 is listening to the channel
+S15 the channel is free.
+S15 starts sending the message : "1".
+S15 has finished sending the message : "1" to the node: 
+S24 (radio: radio1) is receiving the message : "1" in its buffer.
+S15 starts delaying for 1000.0 milliseconds
+S9 is listening to the channel
+S9 the channel is free.
+S9 starts sending the message : "1".
+S9 has finished sending the message : "1" to the node: 
+S10 (radio: radio1) is receiving the message : "1" in its buffer.
+S9 starts delaying for 1000.0 milliseconds
+S4 is listening to the channel
+S4 the channel is free.
+S4 starts sending the message : "1".
+S4 has finished sending the message : "1" to the node: 
+S12 (radio: radio1) is receiving the message : "1" in its buffer.
+S4 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 1.0031373333333333
+Min (milliseconds) : 8.231936510889833E-18
+
+----------------------------------------------------------------------------
+Time : 1.0062746666666667
+Min (milliseconds) : 0.003137333333333317
+S12 has finished the delay.
+S10 has finished the delay.
+
+S12 MARK
+S12 Starts the loop section.
+S12 is waiting for data ...
+S10 MARK
+S10 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.0062746666666667
+Min (milliseconds) : 8.239936510889834E-18
+S12 Buffer available, exit waiting.
+S12 READ
+S12 is reading from its buffer "1" and puts it in v
+S12 PRINT [print, "R=", $v]
+S12 is writing the message : "1" in its buffer.
+S10 Buffer available, exit waiting.
+S10 Starts the loop section.
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "1" and puts it in v
+S10 PRINT [print, "R=", $v]
+S10 is writing the message : "1" in its buffer.
+S24 Buffer available, exit waiting.
+S24 READ
+S24 is reading from its buffer "1" and puts it in v
+S24 PRINT [print, "R=", $v]
+S24 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0062746666666667
+Min (milliseconds) : 8.0E-21
+S12 is listening to the channel
+S12 the channel is free.
+S12 starts sending the message : "1".
+S12 has finished sending the message : "1" to the node: 
+S14 (radio: radio1) is receiving the message : "1" in its buffer.
+S12 starts delaying for 1000.0 milliseconds
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S11 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 1000.0 milliseconds
+S24 is listening to the channel
+S24 the channel is free.
+S24 starts sending the message : "1".
+S24 has finished sending the message : "1" to the nodes with MY=70.0: 
+  -> S25 
+S25 (radio: radio1) is receiving the message : "1" in its buffer.
+S24 MARK
+S24 Starts the loop section.
+S24 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.009412
+Min (milliseconds) : 0.0031373333333333175
+S14 has finished the delay.
+S11 has finished the delay.
+
+S14 MARK
+S14 Starts the loop section.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "1" and puts it in v
+S14 PRINT [print, "R=", $v]
+S14 is writing the message : "1" in its buffer.
+S11 MARK
+S11 Starts the loop section.
+S11 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.009412
+Min (milliseconds) : 8.0E-21
+S14 is listening to the channel
+S14 the channel is free.
+S14 starts sending the message : "1".
+S14 has finished sending the message : "1" to the node: 
+S15 (radio: radio1) is receiving the message : "1" in its buffer.
+S14 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 1.009412
+Min (milliseconds) : 1.6038192152785467E-17
+S25 Buffer available, exit waiting.
+S25 READ
+S25 is reading from its buffer "1" and puts it in v
+S25 PRINT [print, "R=", $v]
+S25 is writing the message : "1" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "1" and puts it in v
+S11 PRINT [print, "R=", $v]
+S11 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.009412
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S26 (radio: radio1) is receiving the message : "1" in its buffer.
+S25 is writing the message : "1" in its buffer.
+S11 is listening to the channel
+S11 the channel is free.
+S11 starts sending the message : "1".
+S11 has finished sending the message : "1" to the node: 
+S14 (radio: radio1) is receiving the message : "1" in its buffer.
+S11 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 1.009412
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S29 (radio: radio1) is receiving the message : "1" in its buffer.
+S25 MARK
+S25 Starts the loop section.
+S25 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.0125493333333333
+Min (milliseconds) : 0.0031373333333333084
+S26 has finished the delay.
+
+S26 MARK
+S26 Starts the loop section.
+S26 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.0125493333333333
+Min (milliseconds) : 9.107298248878237E-18
+
+----------------------------------------------------------------------------
+Time : 1.0125493333333333
+Min (milliseconds) : 1.6046192152785466E-17
+S26 Buffer available, exit waiting.
+S26 READ
+S26 is reading from its buffer "1" and puts it in v
+S26 PRINT [print, "R=", $v]
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0125493333333333
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S26 and S27.0have not the same protocol!
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0125493333333333
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S26 and S30.0have not the same protocol!
+S26 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 1.018824
+Min (milliseconds) : 0.006274666666666628
+S33 has finished the delay.
+
+S33 MARK
+S33 Starts the loop section.
+S33 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.0219613333333333
+Min (milliseconds) : 0.0031373333333333253
+S34 has finished the delay.
+
+S34 MARK
+S34 Starts the loop section.
+S34 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.0
+Min (milliseconds) : 0.9780386666666667
+S5 has finished the delay.
+S23 has finished the delay.
+S7 has finished the delay.
+S6 has finished the delay.
+S1 has finished the delay.
+S2 has finished the delay.
+
+S5 Starts the loop section.
+S5 is writing the message : "1" in its buffer.
+S23 Starts the loop section.
+S23 is writing the message : "1" in its buffer.
+S7 Starts the loop section.
+S7 is writing the message : "1" in its buffer.
+S6 Starts the loop section.
+S6 is writing the message : "1" in its buffer.
+S1 Starts the loop section.
+S1 is writing the message : "1" in its buffer.
+S2 Starts the loop section.
+S2 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0
+Min (milliseconds) : 8.0E-21
+S5 is listening to the channel
+S5 the channel is free.
+S5 starts sending the message : "1".
+S5 has finished sending the message : "1" to the node: 
+S9 (radio: radio1) is receiving the message : "1" in its buffer.
+S5 MARK
+S5 starts delaying for 1000.0 milliseconds
+S23 is listening to the channel
+S23 the channel is free.
+S23 starts sending the message : "1".
+S23 has finished sending the message : "1" to the node: 
+S15 (radio: radio1) is receiving the message : "1" in its buffer.
+S23 MARK
+S23 starts delaying for 1000.0 milliseconds
+S7 is listening to the channel
+S7 the channel is free.
+S7 starts sending the message : "1".
+S7 has finished sending the message : "1" to the node: 
+S9 (radio: radio1) is receiving the message : "1" in its buffer.
+S7 MARK
+S7 starts delaying for 1000.0 milliseconds
+S6 is listening to the channel
+S6 the channel is free.
+S6 starts sending the message : "1".
+S6 has finished sending the message : "1" to the node: 
+S9 (radio: radio1) is receiving the message : "1" in its buffer.
+S6 MARK
+S6 starts delaying for 1000.0 milliseconds
+S1 is listening to the channel
+S1 the channel is free.
+S1 starts sending the message : "1".
+S1 has finished sending the message : "1" to the node: 
+S4 (radio: radio1) is receiving the message : "1" in its buffer.
+S1 MARK
+S1 starts delaying for 1000.0 milliseconds
+S2 is listening to the channel
+S2 the channel is free.
+S2 starts sending the message : "1".
+S2 has finished sending the message : "1" to the node: 
+S4 (radio: radio1) is receiving the message : "1" in its buffer.
+S2 MARK
+S2 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 2.003137333333333
+Min (milliseconds) : 0.0031373333333333253
+S15 has finished the delay.
+S9 has finished the delay.
+S4 has finished the delay.
+
+S15 MARK
+S15 Starts the loop section.
+S15 Buffer available, exit waiting.
+S15 READ
+S15 is reading from its buffer "0" and puts it in v
+S15 PRINT [print, "R=", $v]
+S15 is writing the message : "0" in its buffer.
+S9 MARK
+S9 Starts the loop section.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "1" and puts it in v
+S9 PRINT [print, "R=", $v]
+S9 is writing the message : "1" in its buffer.
+S4 MARK
+S4 Starts the loop section.
+S4 Buffer available, exit waiting.
+S4 READ
+S4 is reading from its buffer "1" and puts it in v
+S4 PRINT [print, "R=", $v]
+S4 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.003137333333333
+Min (milliseconds) : 8.0E-21
+S15 is listening to the channel
+S15 the channel is free.
+S15 starts sending the message : "0".
+S15 has finished sending the message : "0" to the node: 
+S24 (radio: radio1) is receiving the message : "0" in its buffer.
+S15 starts delaying for 1000.0 milliseconds
+S9 is listening to the channel
+S9 the channel is free.
+S9 starts sending the message : "1".
+S9 has finished sending the message : "1" to the node: 
+S10 (radio: radio1) is receiving the message : "1" in its buffer.
+S9 starts delaying for 1000.0 milliseconds
+S4 is listening to the channel
+S4 the channel is free.
+S4 starts sending the message : "1".
+S4 has finished sending the message : "1" to the node: 
+S12 (radio: radio1) is receiving the message : "1" in its buffer.
+S4 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 2.003137333333333
+Min (milliseconds) : 8.231936510889833E-18
+
+----------------------------------------------------------------------------
+Time : 2.006274666666666
+Min (milliseconds) : 0.003137333333333317
+S12 has finished the delay.
+S10 has finished the delay.
+
+S12 MARK
+S12 Starts the loop section.
+S12 is waiting for data ...
+S10 MARK
+S10 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.006274666666666
+Min (milliseconds) : 8.239936510889834E-18
+S12 Buffer available, exit waiting.
+S12 READ
+S12 is reading from its buffer "1" and puts it in v
+S12 PRINT [print, "R=", $v]
+S12 is writing the message : "1" in its buffer.
+S10 Buffer available, exit waiting.
+S10 Starts the loop section.
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "1" and puts it in v
+S10 PRINT [print, "R=", $v]
+S10 is writing the message : "1" in its buffer.
+S24 Buffer available, exit waiting.
+S24 READ
+S24 is reading from its buffer "0" and puts it in v
+S24 PRINT [print, "R=", $v]
+S24 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.006274666666666
+Min (milliseconds) : 8.0E-21
+S12 is listening to the channel
+S12 the channel is free.
+S12 starts sending the message : "1".
+S12 has finished sending the message : "1" to the node: 
+S14 (radio: radio1) is receiving the message : "1" in its buffer.
+S12 starts delaying for 1000.0 milliseconds
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S11 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 1000.0 milliseconds
+S24 is listening to the channel
+S24 the channel is free.
+S24 starts sending the message : "0".
+S24 has finished sending the message : "0" to the nodes with MY=70.0: 
+  -> S25 
+S25 (radio: radio1) is receiving the message : "0" in its buffer.
+S24 UNMARK
+S24 Starts the loop section.
+S24 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.0094119999999993
+Min (milliseconds) : 0.0031373333333333175
+S14 has finished the delay.
+S11 has finished the delay.
+
+S14 MARK
+S14 Starts the loop section.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "1" and puts it in v
+S14 PRINT [print, "R=", $v]
+S14 is writing the message : "1" in its buffer.
+S11 MARK
+S11 Starts the loop section.
+S11 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.0094119999999993
+Min (milliseconds) : 8.0E-21
+S14 is listening to the channel
+S14 the channel is free.
+S14 starts sending the message : "1".
+S14 has finished sending the message : "1" to the node: 
+S15 (radio: radio1) is receiving the message : "1" in its buffer.
+S14 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 2.0094119999999993
+Min (milliseconds) : 1.6038192152785467E-17
+S25 Buffer available, exit waiting.
+S25 READ
+S25 is reading from its buffer "0" and puts it in v
+S25 PRINT [print, "R=", $v]
+S25 is writing the message : "0" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "1" and puts it in v
+S11 PRINT [print, "R=", $v]
+S11 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0094119999999993
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "0".
+S25 has finished sending the message : "0" to the node: 
+S26 (radio: radio1) is receiving the message : "0" in its buffer.
+S25 is writing the message : "0" in its buffer.
+S11 is listening to the channel
+S11 the channel is free.
+S11 starts sending the message : "1".
+S11 has finished sending the message : "1" to the node: 
+S14 (radio: radio1) is receiving the message : "1" in its buffer.
+S11 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 2.0094119999999993
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "0".
+S25 has finished sending the message : "0" to the node: 
+S25 and S29.0have not the same protocol!
+S25 UNMARK
+S25 Starts the loop section.
+S25 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.0125493333333324
+Min (milliseconds) : 0.0031373333333333084
+S26 has finished the delay.
+
+S26 MARK
+S26 Starts the loop section.
+S26 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.0125493333333324
+Min (milliseconds) : 9.107298248878237E-18
+
+----------------------------------------------------------------------------
+Time : 2.0125493333333324
+Min (milliseconds) : 1.6046192152785466E-17
+S26 Buffer available, exit waiting.
+S26 READ
+S26 is reading from its buffer "0" and puts it in v
+S26 PRINT [print, "R=", $v]
+S26 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0125493333333324
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "0".
+S26 has finished sending the message : "0" to the node: 
+S26 and S27.0have not the same protocol!
+S26 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0125493333333324
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "0".
+S26 has finished sending the message : "0" to the node: 
+S26 and S30.0have not the same protocol!
+S26 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 2.999999999999999
+Min (milliseconds) : 0.9874506666666667
+S5 has finished the delay.
+S23 has finished the delay.
+S7 has finished the delay.
+S6 has finished the delay.
+S1 has finished the delay.
+S2 has finished the delay.
+
+S5 is writing the message : "0" in its buffer.
+S23 is writing the message : "0" in its buffer.
+S7 is writing the message : "0" in its buffer.
+S6 is writing the message : "0" in its buffer.
+S1 is writing the message : "0" in its buffer.
+S2 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.999999999999999
+Min (milliseconds) : 8.0E-21
+S5 is listening to the channel
+S5 the channel is free.
+S5 starts sending the message : "0".
+S5 has finished sending the message : "0" to the node: 
+S9 (radio: radio1) is receiving the message : "0" in its buffer.
+S5 UNMARK
+S5 starts delaying for 1000.0 milliseconds
+S23 is listening to the channel
+S23 the channel is free.
+S23 starts sending the message : "0".
+S23 has finished sending the message : "0" to the node: 
+S15 (radio: radio1) is receiving the message : "0" in its buffer.
+S23 UNMARK
+S23 starts delaying for 1000.0 milliseconds
+S7 is listening to the channel
+S7 the channel is free.
+S7 starts sending the message : "0".
+S7 has finished sending the message : "0" to the node: 
+S9 (radio: radio1) is receiving the message : "0" in its buffer.
+S7 UNMARK
+S7 starts delaying for 1000.0 milliseconds
+S6 is listening to the channel
+S6 the channel is free.
+S6 starts sending the message : "0".
+S6 has finished sending the message : "0" to the node: 
+S9 (radio: radio1) is receiving the message : "0" in its buffer.
+S6 UNMARK
+S6 starts delaying for 1000.0 milliseconds
+S1 is listening to the channel
+S1 the channel is free.
+S1 starts sending the message : "0".
+S1 has finished sending the message : "0" to the node: 
+S4 (radio: radio1) is receiving the message : "0" in its buffer.
+S1 UNMARK
+S1 starts delaying for 1000.0 milliseconds
+S2 is listening to the channel
+S2 the channel is free.
+S2 starts sending the message : "0".
+S2 has finished sending the message : "0" to the node: 
+S4 (radio: radio1) is receiving the message : "0" in its buffer.
+S2 UNMARK
+S2 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 3.003137333333332
+Min (milliseconds) : 0.0031373333333333253
+S15 has finished the delay.
+S9 has finished the delay.
+S4 has finished the delay.
+
+S15 UNMARK
+S15 Starts the loop section.
+S15 Buffer available, exit waiting.
+S15 READ
+S15 is reading from its buffer "1" and puts it in v
+S15 PRINT [print, "R=", $v]
+S15 is writing the message : "1" in its buffer.
+S9 MARK
+S9 Starts the loop section.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "0" and puts it in v
+S9 PRINT [print, "R=", $v]
+S9 is writing the message : "0" in its buffer.
+S4 MARK
+S4 Starts the loop section.
+S4 Buffer available, exit waiting.
+S4 READ
+S4 is reading from its buffer "0" and puts it in v
+S4 PRINT [print, "R=", $v]
+S4 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.003137333333332
+Min (milliseconds) : 8.0E-21
+S15 is listening to the channel
+S15 the channel is free.
+S15 starts sending the message : "1".
+S15 has finished sending the message : "1" to the node: 
+S24 (radio: radio1) is receiving the message : "1" in its buffer.
+S15 starts delaying for 1000.0 milliseconds
+S9 is listening to the channel
+S9 the channel is free.
+S9 starts sending the message : "0".
+S9 has finished sending the message : "0" to the node: 
+S10 (radio: radio1) is receiving the message : "0" in its buffer.
+S9 starts delaying for 1000.0 milliseconds
+S4 is listening to the channel
+S4 the channel is free.
+S4 starts sending the message : "0".
+S4 has finished sending the message : "0" to the node: 
+S12 (radio: radio1) is receiving the message : "0" in its buffer.
+S4 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 3.003137333333332
+Min (milliseconds) : 8.231936510889833E-18
+
+----------------------------------------------------------------------------
+Time : 3.0062746666666653
+Min (milliseconds) : 0.003137333333333317
+S12 has finished the delay.
+S10 has finished the delay.
+
+S12 MARK
+S12 Starts the loop section.
+S12 is waiting for data ...
+S10 MARK
+S10 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.0062746666666653
+Min (milliseconds) : 8.239936510889834E-18
+S12 Buffer available, exit waiting.
+S12 READ
+S12 is reading from its buffer "0" and puts it in v
+S12 PRINT [print, "R=", $v]
+S12 is writing the message : "0" in its buffer.
+S10 Buffer available, exit waiting.
+S10 Starts the loop section.
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "0" and puts it in v
+S10 PRINT [print, "R=", $v]
+S10 is writing the message : "0" in its buffer.
+S24 Buffer available, exit waiting.
+S24 READ
+S24 is reading from its buffer "1" and puts it in v
+S24 PRINT [print, "R=", $v]
+S24 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.0062746666666653
+Min (milliseconds) : 8.0E-21
+S12 is listening to the channel
+S12 the channel is free.
+S12 starts sending the message : "0".
+S12 has finished sending the message : "0" to the node: 
+S14 (radio: radio1) is receiving the message : "0" in its buffer.
+S12 starts delaying for 1000.0 milliseconds
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "0".
+S10 has finished sending the message : "0" to the node: 
+S11 (radio: radio1) is receiving the message : "0" in its buffer.
+S10 starts delaying for 1000.0 milliseconds
+S24 is listening to the channel
+S24 the channel is free.
+S24 starts sending the message : "1".
+S24 has finished sending the message : "1" to the nodes with MY=70.0: 
+  -> S25 
+S25 (radio: radio1) is receiving the message : "1" in its buffer.
+S24 MARK
+S24 Starts the loop section.
+S24 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.0094119999999984
+Min (milliseconds) : 0.0031373333333333175
+S14 has finished the delay.
+S11 has finished the delay.
+
+S14 MARK
+S14 Starts the loop section.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "1" and puts it in v
+S14 PRINT [print, "R=", $v]
+S14 is writing the message : "1" in its buffer.
+S11 MARK
+S11 Starts the loop section.
+S11 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.0094119999999984
+Min (milliseconds) : 8.0E-21
+S14 is listening to the channel
+S14 the channel is free.
+S14 starts sending the message : "1".
+S14 has finished sending the message : "1" to the node: 
+S15 (radio: radio1) is receiving the message : "1" in its buffer.
+S14 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 3.0094119999999984
+Min (milliseconds) : 1.6038192152785467E-17
+S25 Buffer available, exit waiting.
+S25 READ
+S25 is reading from its buffer "1" and puts it in v
+S25 PRINT [print, "R=", $v]
+S25 is writing the message : "1" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "0" and puts it in v
+S11 PRINT [print, "R=", $v]
+S11 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.0094119999999984
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S26 (radio: radio1) is receiving the message : "1" in its buffer.
+S25 is writing the message : "1" in its buffer.
+S11 is listening to the channel
+S11 the channel is free.
+S11 starts sending the message : "0".
+S11 has finished sending the message : "0" to the node: 
+S14 (radio: radio1) is receiving the message : "0" in its buffer.
+S11 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 3.0094119999999984
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S25 and S29.0have not the same protocol!
+S25 MARK
+S25 Starts the loop section.
+S25 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.0125493333333315
+Min (milliseconds) : 0.0031373333333333084
+S26 has finished the delay.
+
+S26 UNMARK
+S26 Starts the loop section.
+S26 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.0125493333333315
+Min (milliseconds) : 9.107298248878237E-18
+
+----------------------------------------------------------------------------
+Time : 3.0125493333333315
+Min (milliseconds) : 1.6046192152785466E-17
+S26 Buffer available, exit waiting.
+S26 READ
+S26 is reading from its buffer "1" and puts it in v
+S26 PRINT [print, "R=", $v]
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.0125493333333315
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S26 and S27.0have not the same protocol!
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.0125493333333315
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S26 and S30.0have not the same protocol!
+S26 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 3.9999999999999982
+Min (milliseconds) : 0.9874506666666667
+S5 has finished the delay.
+S23 has finished the delay.
+S7 has finished the delay.
+S6 has finished the delay.
+S1 has finished the delay.
+S2 has finished the delay.
+
+S5 Starts the loop section.
+S5 is writing the message : "1" in its buffer.
+S23 Starts the loop section.
+S23 is writing the message : "1" in its buffer.
+S7 Starts the loop section.
+S7 is writing the message : "1" in its buffer.
+S6 Starts the loop section.
+S6 is writing the message : "1" in its buffer.
+S1 Starts the loop section.
+S1 is writing the message : "1" in its buffer.
+S2 Starts the loop section.
+S2 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.9999999999999982
+Min (milliseconds) : 8.0E-21
+S5 is listening to the channel
+S5 the channel is free.
+S5 starts sending the message : "1".
+S5 has finished sending the message : "1" to the node: 
+S9 (radio: radio1) is receiving the message : "1" in its buffer.
+S5 MARK
+S5 starts delaying for 1000.0 milliseconds
+S23 is listening to the channel
+S23 the channel is free.
+S23 starts sending the message : "1".
+S23 has finished sending the message : "1" to the node: 
+S15 (radio: radio1) is receiving the message : "1" in its buffer.
+S23 MARK
+S23 starts delaying for 1000.0 milliseconds
+S7 is listening to the channel
+S7 the channel is free.
+S7 starts sending the message : "1".
+S7 has finished sending the message : "1" to the node: 
+S9 (radio: radio1) is receiving the message : "1" in its buffer.
+S7 MARK
+S7 starts delaying for 1000.0 milliseconds
+S6 is listening to the channel
+S6 the channel is free.
+S6 starts sending the message : "1".
+S6 has finished sending the message : "1" to the node: 
+S9 (radio: radio1) is receiving the message : "1" in its buffer.
+S6 MARK
+S6 starts delaying for 1000.0 milliseconds
+S1 is listening to the channel
+S1 the channel is free.
+S1 starts sending the message : "1".
+S1 has finished sending the message : "1" to the node: 
+S4 (radio: radio1) is receiving the message : "1" in its buffer.
+S1 MARK
+S1 starts delaying for 1000.0 milliseconds
+S2 is listening to the channel
+S2 the channel is free.
+S2 starts sending the message : "1".
+S2 has finished sending the message : "1" to the node: 
+S4 (radio: radio1) is receiving the message : "1" in its buffer.
+S2 MARK
+S2 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.003137333333331
+Min (milliseconds) : 0.0031373333333333253
+S15 has finished the delay.
+S9 has finished the delay.
+S4 has finished the delay.
+
+S15 MARK
+S15 Starts the loop section.
+S15 Buffer available, exit waiting.
+S15 READ
+S15 is reading from its buffer "1" and puts it in v
+S15 PRINT [print, "R=", $v]
+S15 is writing the message : "1" in its buffer.
+S9 UNMARK
+S9 Starts the loop section.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "0" and puts it in v
+S9 PRINT [print, "R=", $v]
+S9 is writing the message : "0" in its buffer.
+S4 UNMARK
+S4 Starts the loop section.
+S4 Buffer available, exit waiting.
+S4 READ
+S4 is reading from its buffer "0" and puts it in v
+S4 PRINT [print, "R=", $v]
+S4 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.003137333333331
+Min (milliseconds) : 8.0E-21
+S15 is listening to the channel
+S15 the channel is free.
+S15 starts sending the message : "1".
+S15 has finished sending the message : "1" to the node: 
+S24 (radio: radio1) is receiving the message : "1" in its buffer.
+S15 starts delaying for 1000.0 milliseconds
+S9 is listening to the channel
+S9 the channel is free.
+S9 starts sending the message : "0".
+S9 has finished sending the message : "0" to the node: 
+S10 (radio: radio1) is receiving the message : "0" in its buffer.
+S9 starts delaying for 1000.0 milliseconds
+S4 is listening to the channel
+S4 the channel is free.
+S4 starts sending the message : "0".
+S4 has finished sending the message : "0" to the node: 
+S12 (radio: radio1) is receiving the message : "0" in its buffer.
+S4 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.003137333333331
+Min (milliseconds) : 8.231936510889833E-18
+
+----------------------------------------------------------------------------
+Time : 4.006274666666664
+Min (milliseconds) : 0.003137333333333317
+S12 has finished the delay.
+S10 has finished the delay.
+
+S12 UNMARK
+S12 Starts the loop section.
+S12 is waiting for data ...
+S10 UNMARK
+S10 Starts the loop section.
+S10 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 4.006274666666664
+Min (milliseconds) : 8.239936510889834E-18
+S12 Buffer available, exit waiting.
+S12 READ
+S12 is reading from its buffer "0" and puts it in v
+S12 PRINT [print, "R=", $v]
+S12 is writing the message : "0" in its buffer.
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "0" and puts it in v
+S10 PRINT [print, "R=", $v]
+S10 is writing the message : "0" in its buffer.
+S24 Buffer available, exit waiting.
+S24 READ
+S24 is reading from its buffer "1" and puts it in v
+S24 PRINT [print, "R=", $v]
+S24 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.006274666666664
+Min (milliseconds) : 8.0E-21
+S12 is listening to the channel
+S12 the channel is free.
+S12 starts sending the message : "0".
+S12 has finished sending the message : "0" to the node: 
+S14 (radio: radio1) is receiving the message : "0" in its buffer.
+S12 starts delaying for 1000.0 milliseconds
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "0".
+S10 has finished sending the message : "0" to the node: 
+S11 (radio: radio1) is receiving the message : "0" in its buffer.
+S10 starts delaying for 1000.0 milliseconds
+S24 is listening to the channel
+S24 the channel is free.
+S24 starts sending the message : "1".
+S24 has finished sending the message : "1" to the nodes with MY=70.0: 
+  -> S25 
+S25 (radio: radio1) is receiving the message : "1" in its buffer.
+S24 MARK
+S24 Starts the loop section.
+S24 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 4.0094119999999975
+Min (milliseconds) : 0.0031373333333333175
+S14 has finished the delay.
+S11 has finished the delay.
+
+S14 MARK
+S14 Starts the loop section.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "1" and puts it in v
+S14 PRINT [print, "R=", $v]
+S14 is writing the message : "1" in its buffer.
+S11 UNMARK
+S11 Starts the loop section.
+S11 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 4.0094119999999975
+Min (milliseconds) : 8.0E-21
+S14 is listening to the channel
+S14 the channel is free.
+S14 starts sending the message : "1".
+S14 has finished sending the message : "1" to the node: 
+S15 (radio: radio1) is receiving the message : "1" in its buffer.
+S14 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.0094119999999975
+Min (milliseconds) : 1.6038192152785467E-17
+S25 Buffer available, exit waiting.
+S25 READ
+S25 is reading from its buffer "1" and puts it in v
+S25 PRINT [print, "R=", $v]
+S25 is writing the message : "1" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "0" and puts it in v
+S11 PRINT [print, "R=", $v]
+S11 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.0094119999999975
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S26 (radio: radio1) is receiving the message : "1" in its buffer.
+S25 is writing the message : "1" in its buffer.
+S11 is listening to the channel
+S11 the channel is free.
+S11 starts sending the message : "0".
+S11 has finished sending the message : "0" to the node: 
+S14 (radio: radio1) is receiving the message : "0" in its buffer.
+S11 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.0094119999999975
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S25 and S29.0have not the same protocol!
+S25 MARK
+S25 Starts the loop section.
+S25 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 4.012549333333331
+Min (milliseconds) : 0.0031373333333333084
+S26 has finished the delay.
+
+S26 MARK
+S26 Starts the loop section.
+S26 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 4.012549333333331
+Min (milliseconds) : 9.107298248878237E-18
+
+----------------------------------------------------------------------------
+Time : 4.012549333333331
+Min (milliseconds) : 1.6046192152785466E-17
+S26 Buffer available, exit waiting.
+S26 READ
+S26 is reading from its buffer "1" and puts it in v
+S26 PRINT [print, "R=", $v]
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.012549333333331
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S26 and S27.0have not the same protocol!
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.012549333333331
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S26 and S30.0have not the same protocol!
+S26 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.999999999999997
+Min (milliseconds) : 0.9874506666666667
+S23 has finished the delay.
+S7 has finished the delay.
+S6 has finished the delay.
+S1 has finished the delay.
+S2 has finished the delay.
+
+S23 is writing the message : "0" in its buffer.
+S7 is writing the message : "0" in its buffer.
+S6 is writing the message : "0" in its buffer.
+S1 is writing the message : "0" in its buffer.
+S2 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.999999999999997
+Min (milliseconds) : 8.0E-21
+S23 is listening to the channel
+S23 the channel is free.
+S23 starts sending the message : "0".
+S23 has finished sending the message : "0" to the node: 
+S15 (radio: radio1) is receiving the message : "0" in its buffer.
+S23 UNMARK
+S23 starts delaying for 1000.0 milliseconds
+S7 is listening to the channel
+S7 the channel is free.
+S7 starts sending the message : "0".
+S7 has finished sending the message : "0" to the node: 
+S9 (radio: radio1) is receiving the message : "0" in its buffer.
+S7 UNMARK
+S7 starts delaying for 1000.0 milliseconds
+S6 is listening to the channel
+S6 the channel is free.
+S6 starts sending the message : "0".
+S6 has finished sending the message : "0" to the node: 
+S9 (radio: radio1) is receiving the message : "0" in its buffer.
+S6 UNMARK
+S6 starts delaying for 1000.0 milliseconds
+S1 is listening to the channel
+S1 the channel is free.
+S1 starts sending the message : "0".
+S1 has finished sending the message : "0" to the node: 
+S1 and S4.0have not the same protocol!
+S1 UNMARK
+S1 starts delaying for 1000.0 milliseconds
+S2 is listening to the channel
+S2 the channel is free.
+S2 starts sending the message : "0".
+S2 has finished sending the message : "0" to the node: 
+S2 and S4.0have not the same protocol!
+S2 UNMARK
+S2 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 5.00313733333333
+Min (milliseconds) : 0.0031373333333333253
+S15 has finished the delay.
+S9 has finished the delay.
+
+S15 MARK
+S15 Starts the loop section.
+S15 Buffer available, exit waiting.
+S15 READ
+S15 is reading from its buffer "1" and puts it in v
+S15 PRINT [print, "R=", $v]
+S15 is writing the message : "1" in its buffer.
+S9 UNMARK
+S9 Starts the loop section.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "0" and puts it in v
+S9 PRINT [print, "R=", $v]
+S9 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 5.00313733333333
+Min (milliseconds) : 8.0E-21
+S15 is listening to the channel
+S15 the channel is free.
+S15 starts sending the message : "1".
+S15 has finished sending the message : "1" to the node: 
+S24 (radio: radio1) is receiving the message : "1" in its buffer.
+S15 starts delaying for 1000.0 milliseconds
+S9 is listening to the channel
+S9 the channel is free.
+S9 starts sending the message : "0".
+S9 has finished sending the message : "0" to the node: 
+S10 (radio: radio1) is receiving the message : "0" in its buffer.
+S9 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 5.00313733333333
+Min (milliseconds) : 8.231936510889833E-18
+
+----------------------------------------------------------------------------
+Time : 5.0062746666666635
+Min (milliseconds) : 0.003137333333333317
+S12 has finished the delay.
+S10 has finished the delay.
+
+S12 UNMARK
+S12 Starts the loop section.
+S12 is waiting for data ...
+S10 UNMARK
+S10 Starts the loop section.
+S10 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 5.0062746666666635
+Min (milliseconds) : 8.239936510889834E-18
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "0" and puts it in v
+S10 PRINT [print, "R=", $v]
+S10 is writing the message : "0" in its buffer.
+S24 Buffer available, exit waiting.
+S24 READ
+S24 is reading from its buffer "1" and puts it in v
+S24 PRINT [print, "R=", $v]
+S24 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 5.0062746666666635
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "0".
+S10 has finished sending the message : "0" to the node: 
+S11 (radio: radio1) is receiving the message : "0" in its buffer.
+S10 starts delaying for 1000.0 milliseconds
+S24 is listening to the channel
+S24 the channel is free.
+S24 starts sending the message : "1".
+S24 has finished sending the message : "1" to the nodes with MY=70.0: 
+  -> S25 
+S25 (radio: radio1) is receiving the message : "1" in its buffer.
+S24 MARK
+S24 Starts the loop section.
+S24 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 5.009411999999997
+Min (milliseconds) : 0.0031373333333333175
+S14 has finished the delay.
+S11 has finished the delay.
+
+S14 MARK
+S14 Starts the loop section.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "1" and puts it in v
+S14 PRINT [print, "R=", $v]
+S14 is writing the message : "1" in its buffer.
+S11 UNMARK
+S11 Starts the loop section.
+S11 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 5.009411999999997
+Min (milliseconds) : 8.0E-21
+S14 is listening to the channel
+S14 the channel is free.
+S14 starts sending the message : "1".
+S14 has finished sending the message : "1" to the node: 
+S15 (radio: radio1) is receiving the message : "1" in its buffer.
+S14 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 5.009411999999997
+Min (milliseconds) : 1.6038192152785467E-17
+S25 Buffer available, exit waiting.
+S25 READ
+S25 is reading from its buffer "1" and puts it in v
+S25 PRINT [print, "R=", $v]
+S25 is writing the message : "1" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "0" and puts it in v
+S11 PRINT [print, "R=", $v]
+S11 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 5.009411999999997
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S26 (radio: radio1) is receiving the message : "1" in its buffer.
+S25 is writing the message : "1" in its buffer.
+S11 is listening to the channel
+S11 the channel is free.
+S11 starts sending the message : "0".
+S11 has finished sending the message : "0" to the node: 
+S14 (radio: radio1) is receiving the message : "0" in its buffer.
+S11 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 5.009411999999997
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S25 and S29.0have not the same protocol!
+S25 MARK
+S25 Starts the loop section.
+S25 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 5.01254933333333
+Min (milliseconds) : 0.0031373333333333084
+S26 has finished the delay.
+
+S26 MARK
+S26 Starts the loop section.
+S26 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 5.01254933333333
+Min (milliseconds) : 9.107298248878237E-18
+
+----------------------------------------------------------------------------
+Time : 5.01254933333333
+Min (milliseconds) : 1.6046192152785466E-17
+S26 Buffer available, exit waiting.
+S26 READ
+S26 is reading from its buffer "1" and puts it in v
+S26 PRINT [print, "R=", $v]
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 5.01254933333333
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S26 and S27.0have not the same protocol!
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 5.01254933333333
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S26 and S30.0have not the same protocol!
+S26 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 5.9999999999999964
+Min (milliseconds) : 0.9874506666666667
+S23 has finished the delay.
+S7 has finished the delay.
+S6 has finished the delay.
+S1 has finished the delay.
+S2 has finished the delay.
+
+S23 Starts the loop section.
+S23 is writing the message : "1" in its buffer.
+S7 Starts the loop section.
+S7 is writing the message : "1" in its buffer.
+S6 Starts the loop section.
+S6 is writing the message : "1" in its buffer.
+S1 Starts the loop section.
+S1 is writing the message : "1" in its buffer.
+S2 Starts the loop section.
+S2 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 5.9999999999999964
+Min (milliseconds) : 8.0E-21
+S23 is listening to the channel
+S23 the channel is free.
+S23 starts sending the message : "1".
+S23 has finished sending the message : "1" to the node: 
+S15 (radio: radio1) is receiving the message : "1" in its buffer.
+S23 MARK
+S23 starts delaying for 1000.0 milliseconds
+S7 is listening to the channel
+S7 the channel is free.
+S7 starts sending the message : "1".
+S7 has finished sending the message : "1" to the node: 
+S9 (radio: radio1) is receiving the message : "1" in its buffer.
+S7 MARK
+S7 starts delaying for 1000.0 milliseconds
+S6 is listening to the channel
+S6 the channel is free.
+S6 starts sending the message : "1".
+S6 has finished sending the message : "1" to the node: 
+S9 (radio: radio1) is receiving the message : "1" in its buffer.
+S6 MARK
+S6 starts delaying for 1000.0 milliseconds
+S1 is listening to the channel
+S1 the channel is free.
+S1 starts sending the message : "1".
+S1 has finished sending the message : "1" to the node: 
+S1 and S4.0have not the same protocol!
+S1 MARK
+S1 starts delaying for 1000.0 milliseconds
+S2 is listening to the channel
+S2 the channel is free.
+S2 starts sending the message : "1".
+S2 has finished sending the message : "1" to the node: 
+S2 and S4.0have not the same protocol!
+S2 MARK
+S2 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 6.0031373333333296
+Min (milliseconds) : 0.0031373333333333253
+S15 has finished the delay.
+S9 has finished the delay.
+
+S15 MARK
+S15 Starts the loop section.
+S15 Buffer available, exit waiting.
+S15 READ
+S15 is reading from its buffer "0" and puts it in v
+S15 PRINT [print, "R=", $v]
+S15 is writing the message : "0" in its buffer.
+S9 UNMARK
+S9 Starts the loop section.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "1" and puts it in v
+S9 PRINT [print, "R=", $v]
+S9 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 6.0031373333333296
+Min (milliseconds) : 8.0E-21
+S15 is listening to the channel
+S15 the channel is free.
+S15 starts sending the message : "0".
+S15 has finished sending the message : "0" to the node: 
+S24 (radio: radio1) is receiving the message : "0" in its buffer.
+S15 starts delaying for 1000.0 milliseconds
+S9 is listening to the channel
+S9 the channel is free.
+S9 starts sending the message : "1".
+S9 has finished sending the message : "1" to the node: 
+S10 (radio: radio1) is receiving the message : "1" in its buffer.
+S9 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 6.0031373333333296
+Min (milliseconds) : 8.231936510889833E-18
+
+----------------------------------------------------------------------------
+Time : 6.006274666666663
+Min (milliseconds) : 0.003137333333333317
+S10 has finished the delay.
+
+S10 UNMARK
+S10 Starts the loop section.
+S10 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 6.006274666666663
+Min (milliseconds) : 8.239936510889834E-18
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "1" and puts it in v
+S10 PRINT [print, "R=", $v]
+S10 is writing the message : "1" in its buffer.
+S24 Buffer available, exit waiting.
+S24 READ
+S24 is reading from its buffer "0" and puts it in v
+S24 PRINT [print, "R=", $v]
+S24 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 6.006274666666663
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S11 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 1000.0 milliseconds
+S24 is listening to the channel
+S24 the channel is free.
+S24 starts sending the message : "0".
+S24 has finished sending the message : "0" to the nodes with MY=70.0: 
+  -> S25 
+S25 (radio: radio1) is receiving the message : "0" in its buffer.
+S24 UNMARK
+S24 Starts the loop section.
+S24 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 6.009411999999996
+Min (milliseconds) : 0.0031373333333333175
+S14 has finished the delay.
+S11 has finished the delay.
+
+S14 MARK
+S14 Starts the loop section.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "0" and puts it in v
+S14 PRINT [print, "R=", $v]
+S14 is writing the message : "0" in its buffer.
+S11 UNMARK
+S11 Starts the loop section.
+S11 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 6.009411999999996
+Min (milliseconds) : 8.0E-21
+S14 is listening to the channel
+S14 the channel is free.
+S14 starts sending the message : "0".
+S14 has finished sending the message : "0" to the node: 
+S15 (radio: radio1) is receiving the message : "0" in its buffer.
+S14 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 6.009411999999996
+Min (milliseconds) : 1.6038192152785467E-17
+S25 Buffer available, exit waiting.
+S25 READ
+S25 is reading from its buffer "0" and puts it in v
+S25 PRINT [print, "R=", $v]
+S25 is writing the message : "0" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "1" and puts it in v
+S11 PRINT [print, "R=", $v]
+S11 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 6.009411999999996
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "0".
+S25 has finished sending the message : "0" to the node: 
+S26 (radio: radio1) is receiving the message : "0" in its buffer.
+S25 is writing the message : "0" in its buffer.
+S11 is listening to the channel
+S11 the channel is free.
+S11 starts sending the message : "1".
+S11 has finished sending the message : "1" to the node: 
+S14 (radio: radio1) is receiving the message : "1" in its buffer.
+S11 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 6.009411999999996
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "0".
+S25 has finished sending the message : "0" to the node: 
+S25 and S29.0have not the same protocol!
+S25 UNMARK
+S25 Starts the loop section.
+S25 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 6.012549333333329
+Min (milliseconds) : 0.0031373333333333084
+S26 has finished the delay.
+
+S26 MARK
+S26 Starts the loop section.
+S26 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 6.012549333333329
+Min (milliseconds) : 9.107298248878237E-18
+
+----------------------------------------------------------------------------
+Time : 6.012549333333329
+Min (milliseconds) : 1.6046192152785466E-17
+S26 Buffer available, exit waiting.
+S26 READ
+S26 is reading from its buffer "0" and puts it in v
+S26 PRINT [print, "R=", $v]
+S26 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 6.012549333333329
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "0".
+S26 has finished sending the message : "0" to the node: 
+S26 and S27.0have not the same protocol!
+S26 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 6.012549333333329
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "0".
+S26 has finished sending the message : "0" to the node: 
+S26 and S30.0have not the same protocol!
+S26 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 6.999999999999996
+Min (milliseconds) : 0.9874506666666667
+S23 has finished the delay.
+S7 has finished the delay.
+S6 has finished the delay.
+S1 has finished the delay.
+S2 has finished the delay.
+
+S23 is writing the message : "0" in its buffer.
+S7 is writing the message : "0" in its buffer.
+S6 is writing the message : "0" in its buffer.
+S1 is writing the message : "0" in its buffer.
+S2 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 6.999999999999996
+Min (milliseconds) : 8.0E-21
+S23 is listening to the channel
+S23 the channel is free.
+S23 starts sending the message : "0".
+S23 has finished sending the message : "0" to the node: 
+S15 (radio: radio1) is receiving the message : "0" in its buffer.
+S23 UNMARK
+S23 starts delaying for 1000.0 milliseconds
+S7 is listening to the channel
+S7 the channel is free.
+S7 starts sending the message : "0".
+S7 has finished sending the message : "0" to the node: 
+S9 (radio: radio1) is receiving the message : "0" in its buffer.
+S7 UNMARK
+S7 starts delaying for 1000.0 milliseconds
+S6 is listening to the channel
+S6 the channel is free.
+S6 starts sending the message : "0".
+S6 has finished sending the message : "0" to the node: 
+S9 (radio: radio1) is receiving the message : "0" in its buffer.
+S6 UNMARK
+S6 starts delaying for 1000.0 milliseconds
+S1 is listening to the channel
+S1 the channel is free.
+S1 starts sending the message : "0".
+S1 has finished sending the message : "0" to the node: 
+S1 and S4.0have not the same protocol!
+S1 UNMARK
+S1 starts delaying for 1000.0 milliseconds
+S2 is listening to the channel
+S2 the channel is free.
+S2 starts sending the message : "0".
+S2 has finished sending the message : "0" to the node: 
+S2 and S4.0have not the same protocol!
+S2 UNMARK
+S2 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 7.003137333333329
+Min (milliseconds) : 0.0031373333333333253
+S15 has finished the delay.
+S9 has finished the delay.
+
+S15 UNMARK
+S15 Starts the loop section.
+S15 Buffer available, exit waiting.
+S15 READ
+S15 is reading from its buffer "1" and puts it in v
+S15 PRINT [print, "R=", $v]
+S15 is writing the message : "1" in its buffer.
+S9 MARK
+S9 Starts the loop section.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "1" and puts it in v
+S9 PRINT [print, "R=", $v]
+S9 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 7.003137333333329
+Min (milliseconds) : 8.0E-21
+S15 is listening to the channel
+S15 the channel is free.
+S15 starts sending the message : "1".
+S15 has finished sending the message : "1" to the node: 
+S24 (radio: radio1) is receiving the message : "1" in its buffer.
+S15 starts delaying for 1000.0 milliseconds
+S9 is listening to the channel
+S9 the channel is free.
+S9 starts sending the message : "1".
+S9 has finished sending the message : "1" to the node: 
+S10 (radio: radio1) is receiving the message : "1" in its buffer.
+S9 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 7.003137333333329
+Min (milliseconds) : 8.231936510889833E-18
+
+----------------------------------------------------------------------------
+Time : 7.006274666666662
+Min (milliseconds) : 0.003137333333333317
+S10 has finished the delay.
+
+S10 MARK
+S10 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 7.006274666666662
+Min (milliseconds) : 8.239936510889834E-18
+S10 Buffer available, exit waiting.
+S10 Starts the loop section.
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "1" and puts it in v
+S10 PRINT [print, "R=", $v]
+S10 is writing the message : "1" in its buffer.
+S24 Buffer available, exit waiting.
+S24 READ
+S24 is reading from its buffer "1" and puts it in v
+S24 PRINT [print, "R=", $v]
+S24 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 7.006274666666662
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S11 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 1000.0 milliseconds
+S24 is listening to the channel
+S24 the channel is free.
+S24 starts sending the message : "1".
+S24 has finished sending the message : "1" to the nodes with MY=70.0: 
+  -> S25 
+S25 (radio: radio1) is receiving the message : "1" in its buffer.
+S24 MARK
+S24 Starts the loop section.
+S24 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 7.009411999999995
+Min (milliseconds) : 0.0031373333333333175
+S14 has finished the delay.
+S11 has finished the delay.
+
+S14 UNMARK
+S14 Starts the loop section.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "0" and puts it in v
+S14 PRINT [print, "R=", $v]
+S14 is writing the message : "0" in its buffer.
+S11 MARK
+S11 Starts the loop section.
+S11 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 7.009411999999995
+Min (milliseconds) : 8.0E-21
+S14 is listening to the channel
+S14 the channel is free.
+S14 starts sending the message : "0".
+S14 has finished sending the message : "0" to the node: 
+S15 (radio: radio1) is receiving the message : "0" in its buffer.
+S14 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 7.009411999999995
+Min (milliseconds) : 1.6038192152785467E-17
+S25 Buffer available, exit waiting.
+S25 READ
+S25 is reading from its buffer "1" and puts it in v
+S25 PRINT [print, "R=", $v]
+S25 is writing the message : "1" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "1" and puts it in v
+S11 PRINT [print, "R=", $v]
+S11 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 7.009411999999995
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S26 (radio: radio1) is receiving the message : "1" in its buffer.
+S25 is writing the message : "1" in its buffer.
+S11 is listening to the channel
+S11 the channel is free.
+S11 starts sending the message : "1".
+S11 has finished sending the message : "1" to the node: 
+S14 (radio: radio1) is receiving the message : "1" in its buffer.
+S11 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 7.009411999999995
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S25 and S29.0have not the same protocol!
+S25 MARK
+S25 Starts the loop section.
+S25 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 7.012549333333328
+Min (milliseconds) : 0.0031373333333333084
+S26 has finished the delay.
+
+S26 UNMARK
+S26 Starts the loop section.
+S26 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 7.012549333333328
+Min (milliseconds) : 9.107298248878237E-18
+
+----------------------------------------------------------------------------
+Time : 7.012549333333328
+Min (milliseconds) : 1.6046192152785466E-17
+S26 Buffer available, exit waiting.
+S26 READ
+S26 is reading from its buffer "1" and puts it in v
+S26 PRINT [print, "R=", $v]
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 7.012549333333328
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S26 and S27.0have not the same protocol!
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 7.012549333333328
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S26 and S30.0have not the same protocol!
+S26 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 7.999999999999995
+Min (milliseconds) : 0.9874506666666667
+S23 has finished the delay.
+S7 has finished the delay.
+S6 has finished the delay.
+S1 has finished the delay.
+S2 has finished the delay.
+
+S23 Starts the loop section.
+S23 is writing the message : "1" in its buffer.
+S7 Starts the loop section.
+S7 is writing the message : "1" in its buffer.
+S6 Starts the loop section.
+S6 is writing the message : "1" in its buffer.
+S1 Starts the loop section.
+S1 is writing the message : "1" in its buffer.
+S2 Starts the loop section.
+S2 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 7.999999999999995
+Min (milliseconds) : 8.0E-21
+S23 is listening to the channel
+S23 the channel is free.
+S23 starts sending the message : "1".
+S23 has finished sending the message : "1" to the node: 
+S15 (radio: radio1) is receiving the message : "1" in its buffer.
+S23 MARK
+S23 starts delaying for 1000.0 milliseconds
+S7 is listening to the channel
+S7 the channel is free.
+S7 starts sending the message : "1".
+S7 has finished sending the message : "1" to the node: 
+S9 (radio: radio1) is receiving the message : "1" in its buffer.
+S7 MARK
+S7 starts delaying for 1000.0 milliseconds
+S6 is listening to the channel
+S6 the channel is free.
+S6 starts sending the message : "1".
+S6 has finished sending the message : "1" to the node: 
+S9 (radio: radio1) is receiving the message : "1" in its buffer.
+S6 MARK
+S6 starts delaying for 1000.0 milliseconds
+S1 is listening to the channel
+S1 the channel is free.
+S1 starts sending the message : "1".
+S1 has finished sending the message : "1" to the node: 
+S1 and S4.0have not the same protocol!
+S1 MARK
+S1 starts delaying for 1000.0 milliseconds
+S2 is listening to the channel
+S2 the channel is free.
+S2 starts sending the message : "1".
+S2 has finished sending the message : "1" to the node: 
+S2 and S4.0have not the same protocol!
+S2 MARK
+S2 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 8.003137333333328
+Min (milliseconds) : 0.0031373333333333253
+S15 has finished the delay.
+S9 has finished the delay.
+
+S15 MARK
+S15 Starts the loop section.
+S15 Buffer available, exit waiting.
+S15 READ
+S15 is reading from its buffer "1" and puts it in v
+S15 PRINT [print, "R=", $v]
+S15 is writing the message : "1" in its buffer.
+S9 MARK
+S9 Starts the loop section.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "1" and puts it in v
+S9 PRINT [print, "R=", $v]
+S9 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 8.003137333333328
+Min (milliseconds) : 8.0E-21
+S15 is listening to the channel
+S15 the channel is free.
+S15 starts sending the message : "1".
+S15 has finished sending the message : "1" to the node: 
+S24 (radio: radio1) is receiving the message : "1" in its buffer.
+S15 starts delaying for 1000.0 milliseconds
+S9 is listening to the channel
+S9 the channel is free.
+S9 starts sending the message : "1".
+S9 has finished sending the message : "1" to the node: 
+S10 (radio: radio1) is receiving the message : "1" in its buffer.
+S9 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 8.003137333333328
+Min (milliseconds) : 8.231936510889833E-18
+
+----------------------------------------------------------------------------
+Time : 8.00627466666666
+Min (milliseconds) : 0.003137333333333317
+S10 has finished the delay.
+
+S10 MARK
+S10 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 8.00627466666666
+Min (milliseconds) : 8.239936510889834E-18
+S10 Buffer available, exit waiting.
+S10 Starts the loop section.
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "1" and puts it in v
+S10 PRINT [print, "R=", $v]
+S10 is writing the message : "1" in its buffer.
+S24 Buffer available, exit waiting.
+S24 READ
+S24 is reading from its buffer "1" and puts it in v
+S24 PRINT [print, "R=", $v]
+S24 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 8.00627466666666
+Min (milliseconds) : 8.0E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "1".
+S10 has finished sending the message : "1" to the node: 
+S11 (radio: radio1) is receiving the message : "1" in its buffer.
+S10 starts delaying for 1000.0 milliseconds
+S24 is listening to the channel
+S24 the channel is free.
+S24 starts sending the message : "1".
+S24 has finished sending the message : "1" to the nodes with MY=70.0: 
+  -> S25 
+S25 (radio: radio1) is receiving the message : "1" in its buffer.
+S24 MARK
+S24 Starts the loop section.
+S24 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 8.009411999999994
+Min (milliseconds) : 0.0031373333333333175
+S14 has finished the delay.
+S11 has finished the delay.
+
+S14 UNMARK
+S14 Starts the loop section.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "0" and puts it in v
+S14 PRINT [print, "R=", $v]
+S14 is writing the message : "0" in its buffer.
+S11 MARK
+S11 Starts the loop section.
+S11 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 8.009411999999994
+Min (milliseconds) : 8.0E-21
+S14 is listening to the channel
+S14 the channel is free.
+S14 starts sending the message : "0".
+S14 has finished sending the message : "0" to the node: 
+S15 (radio: radio1) is receiving the message : "0" in its buffer.
+S14 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 8.009411999999994
+Min (milliseconds) : 1.6038192152785467E-17
+S25 Buffer available, exit waiting.
+S25 READ
+S25 is reading from its buffer "1" and puts it in v
+S25 PRINT [print, "R=", $v]
+S25 is writing the message : "1" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "1" and puts it in v
+S11 PRINT [print, "R=", $v]
+S11 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 8.009411999999994
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S26 (radio: radio1) is receiving the message : "1" in its buffer.
+S25 is writing the message : "1" in its buffer.
+S11 is listening to the channel
+S11 the channel is free.
+S11 starts sending the message : "1".
+S11 has finished sending the message : "1" to the node: 
+S14 (radio: radio1) is receiving the message : "1" in its buffer.
+S11 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 8.009411999999994
+Min (milliseconds) : 8.0E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "1".
+S25 has finished sending the message : "1" to the node: 
+S25 and S29.0have not the same protocol!
+S25 MARK
+S25 Starts the loop section.
+S25 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 8.012549333333327
+Min (milliseconds) : 0.0031373333333333084
+S26 has finished the delay.
+
+S26 MARK
+S26 Starts the loop section.
+S26 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 8.012549333333327
+Min (milliseconds) : 9.107298248878237E-18
+
+----------------------------------------------------------------------------
+Time : 8.012549333333327
+Min (milliseconds) : 1.6046192152785466E-17
+S26 Buffer available, exit waiting.
+S26 READ
+S26 is reading from its buffer "1" and puts it in v
+S26 PRINT [print, "R=", $v]
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 8.012549333333327
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S26 and S27.0have not the same protocol!
+S26 is writing the message : "1" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 8.012549333333327
+Min (milliseconds) : 8.0E-21
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "1".
+S26 has finished sending the message : "1" to the node: 
+S26 and S30.0have not the same protocol!
+S26 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 8.999999999999993
+Min (milliseconds) : 0.9874506666666667
+S23 has finished the delay.
+S7 has finished the delay.
+S6 has finished the delay.
+S1 has finished the delay.
+S2 has finished the delay.
+
+S23 is writing the message : "0" in its buffer.
+S7 is writing the message : "0" in its buffer.
+S6 is writing the message : "0" in its buffer.
+S1 is writing the message : "0" in its buffer.
+S2 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 8.999999999999993
+Min (milliseconds) : 8.0E-21
+S23 is listening to the channel
+S23 the channel is free.
+S23 starts sending the message : "0".
+S23 has finished sending the message : "0" to the node: 
+S15 (radio: radio1) is receiving the message : "0" in its buffer.
+S23 UNMARK
+S23 starts delaying for 1000.0 milliseconds
+S7 is listening to the channel
+S7 the channel is free.
+S7 starts sending the message : "0".
+S7 has finished sending the message : "0" to the node: 
+S9 (radio: radio1) is receiving the message : "0" in its buffer.
+S7 UNMARK
+S7 starts delaying for 1000.0 milliseconds
+S6 is listening to the channel
+S6 the channel is free.
+S6 starts sending the message : "0".
+S6 has finished sending the message : "0" to the node: 
+S9 (radio: radio1) is receiving the message : "0" in its buffer.
+S6 UNMARK
+S6 starts delaying for 1000.0 milliseconds
+S1 is listening to the channel
+S1 the channel is free.
+S1 starts sending the message : "0".
+S1 has finished sending the message : "0" to the node: 
+S1 and S4.0have not the same protocol!
+S1 UNMARK
+S1 starts delaying for 1000.0 milliseconds
+S2 is listening to the channel
+S2 the channel is free.
+S2 starts sending the message : "0".
+S2 has finished sending the message : "0" to the node: 
+S2 and S4.0have not the same protocol!
+S2 UNMARK
+S2 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 9.003137333333326
+Min (milliseconds) : 0.0031373333333333253
+S15 has finished the delay.
+S9 has finished the delay.
+
+S15 MARK
+S15 Starts the loop section.
+S15 Buffer available, exit waiting.
+S15 READ
+S15 is reading from its buffer "1" and puts it in v
+S15 PRINT [print, "R=", $v]
+S15 is writing the message : "1" in its buffer.
+S9 MARK
+S9 Starts the loop section.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "0" and puts it in v
+S9 PRINT [print, "R=", $v]
+S9 is writing the message : "0" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 9.003137333333326
+Min (milliseconds) : 8.0E-21
+S15 is listening to the channel
+S15 the channel is free.
+S15 starts sending the message : "1".
+S15 has finished sending the message : "1" to the node: 
+S24 (radio: radio1) is receiving the message : "1" in its buffer.
+S15 starts delaying for 1000.0 milliseconds
+S9 is listening to the channel
+S9 the channel is free.
+S9 starts sending the message : "0".
+S9 has finished sending the message : "0" to the node: 
+S10 (radio: radio1) is receiving the message : "0" in its buffer.
+S9 starts delaying for 1000.0 milliseconds
